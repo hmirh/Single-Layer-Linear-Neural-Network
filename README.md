@@ -1,4 +1,6 @@
-# Single-Layer-Linear-Neural-Network
+# Single-Layer-Linear-Neural-Network\
+# Perceptron, Adaline, Stochastic Gradient Descent, One-vs-Rest Strategy
+
 Author: Hengameh Mirhajianmoghadam
 ****
 ###Requirement\
